@@ -20,4 +20,11 @@
 - 进一步了解了如何将jupyter notebook发布到GitHub上，不过jupyter notebook会因此变成静态网页，无法再在页面上进行交互。
 - 了解了可以GitHub还提供了[gists](gist.github.com), which is a way to store and share your code in a simpler way than repos. 
 
+### 学习 [Learning Atom](https://www.linkedin.com/learning/learning-atom-2?u=42520596)
+- 右下角选择extension，也就是选择你要进行编辑的语言格式，有非常多的选择
+- 可以导入在电脑中不同位置的文件夹，作为project folder。
+- Atom中的很多功能其实是一个package，可以通过点选Packages来查看。
+-
+-
+
 ### MISC
